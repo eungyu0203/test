@@ -8,7 +8,6 @@ let fanStatus = Boolean(false);
 let ledStatus = Boolean(false);
 
 // Firebase 접근 정보
-var firebaseConfig = {
 const firebaseConfig = {
   apiKey: "AIzaSyCeLLKvmAm3YZWlJHrG84_Y2UG9rAfr5aw",
   authDomain: "smart-87d34.firebaseapp.com",
