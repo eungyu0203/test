@@ -9,7 +9,8 @@ let ledStatus = Boolean(false);
 
 // Firebase 접근 정보
 var firebaseConfig = {
-apiKey: "AIzaSyCeLLKvmAm3YZWlJHrG84_Y2UG9rAfr5aw",
+const firebaseConfig = {
+  apiKey: "AIzaSyCeLLKvmAm3YZWlJHrG84_Y2UG9rAfr5aw",
   authDomain: "smart-87d34.firebaseapp.com",
   databaseURL: "https://smart-87d34-default-rtdb.firebaseio.com",
   projectId: "smart-87d34",
